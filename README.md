@@ -4,6 +4,6 @@ In this Project I tried to make a GUI, which allowed you to find out a certain W
 
 The GUI is very simple (maybe poorly) design, but in it works fine. I used Java Swing Libary and the AWT toolkit. 
 
-![](file:///home/hoang/Pictures/Screenshot_20210225_111508.png)
+<img src> = "home/hoang/Pictures/Screenshot_20210225_111508.png">
 
 
