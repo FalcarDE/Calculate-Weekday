@@ -10,6 +10,7 @@ This is how the GUI look likes:
  
 If you give a Day, Month and Year in the Textfield and press the button. The programm will give you a correct weekday.
 
+![Screenshot_20210225_113417](https://user-images.githubusercontent.com/63967790/109140995-7eec2080-775d-11eb-8bd1-f54d66dc1e4a.png)
 
 
 
