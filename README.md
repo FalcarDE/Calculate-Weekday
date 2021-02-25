@@ -13,4 +13,11 @@ If you insert a correct Day, Month and Year in the Textfield and press the yello
 ![Screenshot_20210225_113417](https://user-images.githubusercontent.com/63967790/109140995-7eec2080-775d-11eb-8bd1-f54d66dc1e4a.png)
 
 
+The first thing i did, was to create 2 classes. The first class in the DayWeekYearFrame which will initialize the Application Window. I used the inheritance of the JFrame class, which is from the Java Swing Libary and the abstract class ActionListener. 
+
+This was my first idea how to create my JFrame - Window Application. 
+
+![Screenshot_20210225_114855](https://user-images.githubusercontent.com/63967790/109142768-8e6c6900-775f-11eb-8809-a4d259273a89.png)
+
+The important part is to connect the JLabel, JTextField and JButton to the JPanel. The JPanel will be added to the Window Pane.
 
