@@ -1,2 +1,9 @@
 # Calculate-Weekday
-In this Repository I tried to make a GUI, which allowed you to find out the Weekday from certain Day, Month and Year.
+In this Project I tried to make a GUI, which allowed you to find out a certain Weekday from Day, Month and Year.
+
+
+The GUI is very simple (maybe poorly) design, but in it works fine. I used Java Swing Libary and the AWT toolkit. 
+
+![](file:///home/hoang/Pictures/Screenshot_20210225_111508.png)
+
+
