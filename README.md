@@ -17,7 +17,7 @@ The first thing i did, was to create 2 classes. The first class in the DayWeekYe
 
 This was my first idea how to create my JFrame - Window Application. 
 
-![Screenshot_20210225_114855](https://user-images.githubusercontent.com/63967790/109142768-8e6c6900-775f-11eb-8809-a4d259273a89.png)
+![Screenshot_20210225_115738](https://user-images.githubusercontent.com/63967790/109143777-af818980-7760-11eb-869f-a6a4f4b047b5.png)
 
 The important part is to connect the JLabel, JTextField and JButton to the JPanel. The JPanel will be added to the Window Pane.
 
