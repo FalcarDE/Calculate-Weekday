@@ -12,6 +12,8 @@ If you insert a correct Day, Month and Year in the Textfield and press the yello
 
 ![Screenshot_20210225_113417](https://user-images.githubusercontent.com/63967790/109140995-7eec2080-775d-11eb-8bd1-f54d66dc1e4a.png)
 
+If you want to know more about the details. Please look into the source code, I explained my steps clearly there. :)
+
 
 
 
